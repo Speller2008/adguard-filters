@@ -1,0 +1,25 @@
+map.ukrainealarm.com##div.app:nth-child(2) > div.header:first-child > div.header-wrapper > div.header-container
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.info:nth-child(3)
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.info:nth-child(3)
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.info:nth-child(3)
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.general-button:nth-child(4)
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.toolbar:first-child
+dimap.live###dimap-support-banner
+dimap.live###tg-card > div.tg-body:last-child > div.tg-scroll.tf-container-desktop > div
+dimap.live###dimap-support-banner
+dimap.live###dimap-support-banner
+dimap.live###tg-card
+dimap.live###hdr > div.hdr-right:last-child > a:nth-child(4)
+dimap.live###hdr > div.hdr-right:last-child > a:nth-child(5) > svg > path
+dimap.live###card-mt
+dimap.live###resizer-right
+dimap.live###hdr > div.hdr-right:last-child > button:nth-child(3)
+dimap.live###hdr-search-wrapper > div.hdr-search-box.glass:first-child
+dimap.live###hdr > div.hdr-left:first-child
+dimap.live###map > div.maplibregl-control-container:last-child > div.maplibregl-ctrl-bottom-right:last-child
+dimap.live###bottom-nav > button.nav-btn:nth-child(2)
+dimap.live###bottom-nav > button.nav-btn:last-child
+dimap.live###bottom-nav > button.nav-btn.active:first-child
+dimap.live###conn-status-bar
+dimap.live###radar-btn-main
+dimap.live###widget-add-btn
