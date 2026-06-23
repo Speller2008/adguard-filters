@@ -23,3 +23,5 @@ dimap.live###bottom-nav > button.nav-btn.active:first-child
 dimap.live###conn-status-bar
 dimap.live###radar-btn-main
 dimap.live###widget-add-btn
+filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.reports-subscribe:nth-child(4)
+filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.information.warning:last-child
