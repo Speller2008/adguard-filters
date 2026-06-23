@@ -25,3 +25,13 @@ dimap.live###radar-btn-main
 dimap.live###widget-add-btn
 filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.reports-subscribe:nth-child(4)
 filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.information.warning:last-child
+filmix.my###dle-content > div.frames.block-accordion:nth-child(3)
+filmix.my###dle-content > div.player-main-block:nth-child(6) > div.information.warning.bold:first-child
+filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > header:first-child > div.player-title:first-child
+filmix.my###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.information:last-child
+filmix.my###careers-actor > div.head-title.clearfix:first-child
+filmix.my###comments
+filmix.my###reviews
+filmix.my###footer
+filmix.my##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.android-link.poster-tooltip:first-child
+filmix.my##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.telegram-link.poster-tooltip:last-child
