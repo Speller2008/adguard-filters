@@ -35,3 +35,15 @@ filmix.my###reviews
 filmix.my###footer
 filmix.my##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.android-link.poster-tooltip:first-child
 filmix.my##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.telegram-link.poster-tooltip:last-child
+filmix.gg###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.reports-subscribe:nth-child(4)
+filmix.gg###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.information.warning:last-child
+filmix.gg###dle-content > div.frames.block-accordion:nth-child(3)
+filmix.gg###dle-content > div.player-main-block:nth-child(6) > div.information.warning.bold:first-child
+filmix.gg###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > header:first-child > div.player-title:first-child
+filmix.gg###dle-content > div.player-main-block:nth-child(6) > div.player-item:last-child > div.information:last-child
+filmix.gg###careers-actor > div.head-title.clearfix:first-child
+filmix.gg###comments
+filmix.gg###reviews
+filmix.gg###footer
+filmix.gg##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.android-link.poster-tooltip:first-child
+filmix.gg##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.telegram-link.poster-tooltip:last-child
