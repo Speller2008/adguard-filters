@@ -47,3 +47,4 @@ filmix.gg###reviews
 filmix.gg###footer
 filmix.gg##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.android-link.poster-tooltip:first-child
 filmix.gg##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.telegram-link.poster-tooltip:last-child
+filmix.gg###dle-content > div.noad.noad-ukr:nth-child(4)
