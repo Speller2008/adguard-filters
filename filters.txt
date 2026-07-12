@@ -50,3 +50,4 @@ filmix.gg##div.page-wrapper > div.android-telegram-main:nth-child(5) > a.telegra
 filmix.gg###dle-content > div.noad.noad-ukr:nth-child(4)
 dimap.live###hdr > div.hdr-right:last-child
 dimap.live###map-attribution
+filmix.gg###\36 a528a8a988bc
