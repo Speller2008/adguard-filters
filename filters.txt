@@ -51,3 +51,12 @@ filmix.gg###dle-content > div.noad.noad-ukr:nth-child(4)
 dimap.live###hdr > div.hdr-right:last-child
 dimap.live###map-attribution
 filmix.gg###\36 a528a8a988bc
+deepl.com###juqwjtlejuqwjuiwjuqwjujd_juqwjui0juqwjujfjuqwjuiyjuqxjtk2juqxjtgwjuqxjthgjuqxjthfjuqxjtgyjuqxjthd_juqwjujgjuqwjujfjuqwjujejuqwjuiwjuqwjui0_mg\=\=ma\=\=ma\=\=_ma\=\=ma\=\=ma\=\=_juqwjujgjuqxjtk2juqwjui0juqwjujgjuqxjtgwjuqwjui4juqxjtk0juqwjujdjuqxjtgxjuqxjtgyjuqwjuiy_juqxjtgz_juqwjuiyjuqxjtgxjuqxjthdjuqwjujfjuqwjujdjuqxjtgz_juqxjtgxjuqwjuiyjuqxjtk2juqxjtgyjuqxjtk2
+deepl.com###e2ce0b847c53549a89f0d60d20c65735f
+deepl.com###e5e1c628ac17e4793889a7d54781c6835 > div.flex.flex-col.lg\:flex-row
+deepl.com###eb8d7f627b92d4d50bca0ce64fb4a9fa6
+deepl.com###eb3036ed3ea62493597d30576f3b0e799 > div.py-redesign-8.lg\:py-redesign-9
+deepl.com###e2dbfc7353db3425a9c7b89c2d3fe2eea > div.flex.flex-col-reverse.gap-12.md\:flex-col
+deepl.com###e2eb717fc51874e0f945a876a2931f900 > div.ctaSection-module-scss-module__8ohPNG__ctaSection
+deepl.com##div.flex:nth-child(8) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\].\[\.product-like_\&\]\:bg-surface-canvas.\[\.product-like\.is-logged-in_\&\]\:bg-surface-canvas-secondary:last-child > div.mobile\:pb-14:last-child > div.relative.bg-surface-canvas.dark\:bg-surface-canvas-secondary.\[\.is-logged-in_\&\]\:bg-surface-canvas-secondary:nth-child(2) > div.\[\.is-home_\&\]\:hidden:nth-child(2) > div.homeExperience-module-scss-module__X9pw5G__homeExperience:last-child
+deepl.com##div.flex:nth-child(8) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\].\[\.product-like_\&\]\:bg-surface-canvas.\[\.product-like\.is-logged-in_\&\]\:bg-surface-canvas-secondary:last-child > div.mobile\:pb-14:last-child > footer:last-child > div.flex.justify-center.bg-white.\[\.is-home_\&\]\:hidden:first-child
