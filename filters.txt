@@ -62,3 +62,4 @@ deepl.com##div.flex:nth-child(8) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\
 deepl.com##div.flex:nth-child(8) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\].\[\.product-like_\&\]\:bg-surface-canvas.\[\.product-like\.is-logged-in_\&\]\:bg-surface-canvas-secondary:last-child > div.mobile\:pb-14:last-child > footer:last-child > div.flex.justify-center.bg-white.\[\.is-home_\&\]\:hidden:first-child
 filmix.gg###\36 a7b43f18cf19 > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child > a.remove-sda
 filmix.gg###\36 a7b442a04b9a > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child > a.remove-sda
+filmix.gg###\36 a7b44937e165 > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child
