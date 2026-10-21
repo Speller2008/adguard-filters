@@ -63,3 +63,6 @@ deepl.com##div.flex:nth-child(8) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\
 filmix.gg###\36 a7b43f18cf19 > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child > a.remove-sda
 filmix.gg###\36 a7b442a04b9a > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child > a.remove-sda
 filmix.gg###\36 a7b44937e165 > div.aside-wrap:last-child > noindex:nth-child(3) > div.remove-sda-wrap:first-child
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.mainMapControls:first-child > div.toolbar:first-child
+map.ukrainealarm.com##div.app:nth-child(2) > div.content:nth-child(2) > div.mainMapControls:first-child > div.mainMapHelpControls:last-child > button.heatMapHelpTrigger
+map.ukrainealarm.com###detail-satellite-map > div.maplibregl-control-container:last-child > div.maplibregl-ctrl-bottom-left:nth-child(3) > div.maplibregl-ctrl.maplibregl-ctrl-scale
